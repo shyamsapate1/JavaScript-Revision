@@ -1,0 +1,2 @@
+# JavaScript-Revision
+Complete JavaScript revision covering variables, data types, operators, functions, scope, hoisting, closures, objects, arrays, strings, DOM, events, error handling, promises, async/await, ES6+, classes, OOP, functional programming, callbacks, modules, APIs, storage, and interview prep.
