@@ -1,0 +1,6 @@
+console.log("2 < 1 => ", 2 < 1)
+console.log("7 > 4 => ", 7 > 4)
+console.log("5 == 8 => ", 5 == 8)
+console.log("6 != 7 =>", 6 !== 7)
+console.log("9 <= 7 =>", 9 <= 7)
+console.log("9 >= 8 =>", 9 >= 8)
